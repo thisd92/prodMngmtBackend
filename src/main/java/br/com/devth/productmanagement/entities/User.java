@@ -1,4 +1,4 @@
-package br.com.devth.productmanagement.model;
+package br.com.devth.productmanagement.entities;
 
 import jakarta.persistence.*;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
